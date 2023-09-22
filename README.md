@@ -117,8 +117,8 @@ STEP 5: At the end give endmodule.
 
 STEP 6: Run the program and choose RTL viewer to get RTL realization.
 PROGRAM
-#### PROGRAM:
-### Program for flipflops  and verify its truth table in quartus using Verilog programming.
+### PROGRAM:
+#### Program for flipflops  and verify its truth table in quartus using Verilog programming.
 ```py
 # Developed by: 22008589
 # RegisterNumber:  YUVARAJ.S
@@ -181,23 +181,23 @@ Qbar=((~T)&Qbar)|(T&(~Qbar));
 end
 endmodule
 ```
-#### RTL LOGIC FOR FLIPFLOPS 
-### SR FLIPFLOPS :
+### RTL LOGIC FOR FLIPFLOPS 
+#### SR FLIPFLOPS :
 ![](./1.png)
-### JK FLIPFLOPS :
+#### JK FLIPFLOPS :
 ![](./2.png)
-### D FLIPFLOPS :
+#### D FLIPFLOPS :
 ![](./3.png)
-### T FLIPFLOPS :
+#### T FLIPFLOPS :
 ![](./4.png)
 ### TIMING DIGRAMS FOR FLIP FLOPS 
-### SR FLIPFLOPS :
+#### SR FLIPFLOPS :
 ![](./5.png)
-### JK FLIPFLOPS :
+#### JK FLIPFLOPS :
 ![](./6.png)
-### D FLIPFLOPS :
+#### D FLIPFLOPS :
 ![](./7.png)
-### T FLIPFLOPS :
+#### T FLIPFLOPS :
 ![](./8.png)
 ### RESULTS :
 Implementation-of-flipflops-using-verilog successfully completed.
