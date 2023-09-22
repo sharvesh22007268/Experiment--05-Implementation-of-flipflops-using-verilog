@@ -196,7 +196,7 @@ endmodule
 ### JK FLIPFLOPS :
 ![](./6.png)
 ### D FLIPFLOPS :
-![](./7.pn)
+![](./7.png)
 ### T FLIPFLOPS :
 ![](./8.png)
 ### RESULTS :
