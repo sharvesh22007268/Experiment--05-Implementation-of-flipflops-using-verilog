@@ -120,8 +120,8 @@ PROGRAM
 ### PROGRAM:
 #### Program for flipflops  and verify its truth table in quartus using Verilog programming.
 ```py
-# Developed by: 22008589
-# RegisterNumber:  YUVARAJ.S
+# Developed by: Sharvesh
+# RegisterNumber:  22007268
 SR FLIPFLOPS CODE:
 module ex5(S,R,clk,Q,Qbar);
 input S,R,clk;
